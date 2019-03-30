@@ -36,4 +36,4 @@ Type "help", "copyright", "credits" or "license" for more information.
 ## Available wheels:
 |TensorFlow|CUDA|CuDNN|TensorRT|Python|NCCL|Compute Capability|OS|Link|
 |---:|---:|---:|---:|---:|---:|---:|:---:|:---:|
-|2.0.0a0|9.2|7.5|-|3.7|2.4|6.1|Linux|[](https://github.com/)|
+|2.0.0a0|9.2|7.5|-|3.7|2.4|6.1|Linux|[tensorflow-2.0.0a0-cp37-cp37m-linux_x86_64.whl](https://github.com/mbartosi/debian-sid-tensorflow/releases/download/v2.0.0a0/tensorflow-2.0.0a0-cp37-cp37m-linux_x86_64.whl)|
