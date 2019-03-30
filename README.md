@@ -15,7 +15,7 @@ apt install python3-keras-applications python3-keras-preprocessing python3-mock
 ```
 Download form NVIDIA and install cuDNN v7.5.0 for CUDA 9.2 and NCCL v2.4.2 for CUDA 9.2.
 
-Instal bazel 0.21.0 from https://github.com/bazelbuild/bazel/releases/tag/0.21.0 (use https://github.com/bazelbuild/bazel/releases/download/0.21.0/bazel-0.21.0-installer-linux-x86_64.sh under jour user account and add to PATH).
+Instal bazel 0.21.0 from https://github.com/bazelbuild/bazel/releases/tag/0.21.0 (use https://github.com/bazelbuild/bazel/releases/download/0.21.0/bazel-0.21.0-installer-linux-x86_64.sh under your user account and add to PATH).
 
 
 Checkout tensorflow from https://github.com/tensorflow/tensorflow (select a release, for example v2.0.0-alpha0).
